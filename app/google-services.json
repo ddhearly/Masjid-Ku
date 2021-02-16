@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "348587590958",
+    "firebase_url": "https://masjid-ku-53784-default-rtdb.firebaseio.com",
+    "project_id": "masjid-ku-53784",
+    "storage_bucket": "masjid-ku-53784.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348587590958:android:23c5c78291ea01ecea66bf",
+        "android_client_info": {
+          "package_name": "com.example.masjidku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348587590958-871dbl4mtbr0fe8bed02484pr1fd4nmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYeQ_npslbN_XwgflSOsVu-qk4jWSyFUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348587590958-871dbl4mtbr0fe8bed02484pr1fd4nmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

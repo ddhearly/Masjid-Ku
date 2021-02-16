@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#00CCFF</color>
+    <color name="colorPrimaryDark">#006699</color>
+    <color name="colorAccent">#F3FFE3</color>
+    <color name="colorPrimaryLight">#FFEBCD</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBackground">#EBEBEB</color>
+    <color name="colorTrandingStart">#00B09B</color>
+    <color name="colorTrandingEnd">#96C93D</color>
+    <color name="colorDivider">#ECEAE4</color>
+
+</resources>
