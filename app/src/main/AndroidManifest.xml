@@ -13,7 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".EditProfile"></activity>
-        <activity android:name=".Tagihan" />
+        <activity android:name=".Lampu" />
         <activity android:name=".Listrik" />
         <activity android:name=".Air" />
         <activity android:name=".Profile" />

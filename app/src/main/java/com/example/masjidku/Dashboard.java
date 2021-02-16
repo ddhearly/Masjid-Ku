@@ -37,7 +37,7 @@ public class Dashboard extends AppCompatActivity implements View.OnClickListener
             case R.id.profile_card : i = new Intent(this, Profile.class); startActivity(i); break;
             case R.id.air_card : i = new Intent(this, Air.class); startActivity(i); break;
             case R.id.listrik_card : i = new Intent(this, Listrik.class); startActivity(i); break;
-            case R.id.tagihan_card : i = new Intent(this, Tagihan.class); startActivity(i); break;
+            case R.id.tagihan_card : i = new Intent(this, Lampu.class); startActivity(i); break;
             default:break;
         }
     }
